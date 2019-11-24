@@ -53,6 +53,7 @@
    1) URL: https://edabit.com/challenge/FPHnbisnLwrQFYyAg
    2) Solution: https://drive.google.com/open?id=1SzffjD80Qs_Zsi_sTh4O7KhlBO6bfW2W
     
+    
 **c. Loops**
   
   I. Challenge 1
@@ -80,6 +81,7 @@
    1) URL: https://edabit.com/challenge/PTvYKkvf7oytHmJFm
    2) Solution: https://drive.google.com/open?id=1K56wAgGPAjAx36yPx1DXedDzY2wRHrz4
    
+   
 **d. Functional Programming**
   
   I. Challenge 1
@@ -106,6 +108,7 @@
     
    1) URL: https://edabit.com/challenge/yyKv8f4FrZPDaJbDs
    2) Solution: https://drive.google.com/open?id=1Er-_ajRWi_m-AgRubv0Y0xeytJILAcom
+    
     
 **e. Scope**
 
@@ -136,7 +139,9 @@
    1) URL: https://edabit.com/challenge/v4fxXDcyqWx7FnX2s
    2) Solution: https://drive.google.com/open?id=1kEkaIMzpeSnaIjgWRSrlcjdnfXHR2hwA
   
+  
 **f. Objects**
+
   I. Challenge 1
     
    1) URL: https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
@@ -161,6 +166,7 @@
    
    1) URL: https://edabit.com/challenge/83sWemMhpG6pScXKp
    2) Solution: https://drive.google.com/open?id=1jIgLniRx3mecqARomkynT5HtQZYXrfsS
+   
    
 **g. Classes**
 
