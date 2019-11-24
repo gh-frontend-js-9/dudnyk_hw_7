@@ -2,15 +2,19 @@ a. Conditions
   I. Challenge 1
     1) URL: https://edabit.com/challenge/Ju7AK9rAGjz86hjxo
     2) Solution: https://drive.google.com/open?id=1fsGi8u-TL4RGd1o382S2PapIps-7PN25
+    
   II. Challenge 2
     1) URL: https://edabit.com/challenge/kLa2w7m4h849k8rmW
     2) Solution: https://drive.google.com/open?id=1UnphGfYocgC6FgWI-AkMKGE8ZQGtdCfe
+    
   III. Challenge 3
     1) URL: https://edabit.com/challenge/at7jF9Y7SmPGyD92u
     2) Solution: https://drive.google.com/open?id=1Qtm3Ta-dYYVA2ABIWP597AeO48F7_N_A
+    
   IV. Challenge 4
     1) URL: https://edabit.com/challenge/nQx5XHtWurbGrFJww
     2) Solution: https://drive.google.com/open?id=19UwQXZ7a-vwBhGMUwW0MGgmMhk2evDNQ
+    
   V. Challenge 5
     1) URL: https://edabit.com/challenge/RG5NJWDa7pZGFkhTA
     2) Solution: https://drive.google.com/open?id=1EdsAJgfBctfgNosv5hoq-UeAbaOdhFff
